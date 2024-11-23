@@ -1,0 +1,1263 @@
+[
+    {
+        "name": "Alabanza Cubana",
+        "number": 1,
+        "author": "",
+        "year": 1092,
+        "favorite": true,
+        "biblicalQuote": "Los cielos cuentan la gloria de Dios, y el firmamento anuncia la obra de sus manos. Sal 19:1",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Al despertar la mañana cálida y primaveral,"
+                    },
+                    {
+                        "text": "Escucho del sinsonte su canto matinal."
+                    },
+                    {
+                        "text": "El susurro de un arroyo a la sombra del palmar"
+                    },
+                    {
+                        "text": "Me dice que mi Cuba eleva su cantar."
+                    }
+                ]
+            },
+            {
+                "type": "chorus",
+                "lines": [
+                    {
+                        "text": "Toda obra de tus manos, entona una alabanza"
+                    },
+                    {
+                        "text": "Porque en tu providencia conservasu esperanza."
+                    },
+                    {
+                        "text": "Y yo quiero, con mi canta, unirme a la armonía"
+                    },
+                    {
+                        "text": "Que llega a tu presencia con bella cuba - nía."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Tú creaste toda vida, tú preservas todo ser;"
+                    },
+                    {
+                        "text": "Sublime maravilla mis ojos pueden ver."
+                    },
+                    {
+                        "text": "Alimentas a las aves, das la lluvia y el calor,"
+                    },
+                    {
+                        "text": "Inspiras con tu luna, alumbras con tu sol."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Te Alabamos, Tierno Cristo",
+        "number": 2,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Señor, digno eres de recibir la gloria y la honra y el poder... Ap 4:11",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Te alabamos, tierno Cristo, te exaltamos, Dios de amor."
+                    },
+                    {
+                        "text": "A tu nombre, gloria damos, Espíritu Consolador."
+                    },
+                    {
+                        "text": "Nuestras vidas te entregamos, oh bendita Trinidad."
+                    },
+                    {
+                        "text": "Tú eres digno de nuestro amor y de todo honor."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Santo Es Jehová",
+        "number": 3,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "...y no cesaban día y noche de decir: Santo, santo, santo es el Señor Dios Todopoderoso... Ap. 4:8",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Santo, santo, santo es Jehová,"
+                    },
+                    {
+                        "text": "Digno de toda honra y honor."
+                    },
+                    {
+                        "text": "Cielo y tierra le adorarán"
+                    },
+                    {
+                        "text": "Y cantarán su amor."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Gloria, gloria, gloria al Señor,"
+                    },
+                    {
+                        "text": "Gloria a Jesús, de reyes el Rey."
+                    },
+                    {
+                        "text": "Gloria al Santo Consolador"
+                    },
+                    {
+                        "text": "Eternamente. Amén."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Santo, Santo, Santo",
+        "number": 4,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "...Santo, santo, santo es el Señor Dios Todopoderoso... Ap. 4:8",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! Señor Omnipotente,"
+                    },
+                    {
+                        "text": "Siempre el labio mío loores te dará;"
+                    },
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! te adoro reverente,"
+                    },
+                    {
+                        "text": "Dios en tres Personas, bendita Trinidad."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! en numeroso coro,"
+                    },
+                    {
+                        "text": "Santos escogidos te adoran sin cesar,"
+                    },
+                    {
+                        "text": "De alegría llenos, y sus coronas de oro"
+                    },
+                    {
+                        "text": "Rinden ante el trono y el cristalino mar."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! la inmensa muchedumbre,"
+                    },
+                    {
+                        "text": "De ángeles que cumplen tu santa voluntad,"
+                    },
+                    {
+                        "text": "Ante ti se postra bañada de tu lumbre,"
+                    },
+                    {
+                        "text": "Ante ti que has sido, que eres y serás."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! por más que estés velado,"
+                    },
+                    {
+                        "text": "E imposible sea tu gloria contemplar;"
+                    },
+                    {
+                        "text": "Santo tú eres solo y nada hay a tu lado,"
+                    },
+                    {
+                        "text": "En poder perfecto, pureza y caridad."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! la gloria de tu nombre,"
+                    },
+                    {
+                        "text": "Vemos en tus obras en cielo, tierra y mar."
+                    },
+                    {
+                        "text": "¡Santo! ¡Santo! ¡Santo! te adora todo hombre,"
+                    },
+                    {
+                        "text": "Dios en tres Personas, bendita Trinidad. Amén."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oh Padre, Eterno Dios!",
+        "number": 5,
+        "author": "Reginald Heber, 1826. Tr. J. B. Cabrera. Basado en Apocalipsis 4:8-11.",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "...en el nombre del Padre, y del Hijo, y del Espíritu Santo... Mt 28:19",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Oh Padre, eterno Dios!"
+                    },
+                    {
+                        "text": "Alzamos nuestra voz con santo ardor,"
+                    },
+                    {
+                        "text": "Por cuanto tú nos das, tu ayuda sin igual,"
+                    },
+                    {
+                        "text": "Hallando nuestra paz en ti, Señor."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Bendito Salvador!"
+                    },
+                    {
+                        "text": "Te damos con amor el corazón."
+                    },
+                    {
+                        "text": "Y tú nos puedes ver que humildes a tu altar,"
+                    },
+                    {
+                        "text": "Venimos a traer precioso don."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Espíritu de Dios!"
+                    },
+                    {
+                        "text": "Escucha nuestra voz; y tu bondad"
+                    },
+                    {
+                        "text": "Derrame en nuestro ser divina claridad,"
+                    },
+                    {
+                        "text": "Para poder vivir en santidad. Amén."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Te Loamos; Oh Dios",
+        "number": 6,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Dad a Jehová la gloria debida a su nombre... Sal. 29:2",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Te loamos, joh Dios!, con unánime voz,"
+                    },
+                    {
+                        "text": "Pues en Cristo tu Hijo nos diste perdón."
+                    }
+                ]
+            },
+            {
+                "type": "chorus",
+                "lines": [
+                    {
+                        "text": "!Aleluya! Te alabamos,"
+                    },
+                    {
+                        "text": "!Oh, cuán grande es tu amor!"
+                    },
+                    {
+                        "text": "!Aleluya! Te adoramos, Bendito Señor."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Te loamos, Jesús, pues tu trono de luz"
+                    },
+                    {
+                        "text": "Tú dejaste por darnos salud en la cruz."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Te damos loor, Santo Consolador,"
+                    },
+                    {
+                        "text": "Que nos llenas de gozo y santo valor."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Unidos load, a la gran Trinidad,"
+                    },
+                    {
+                        "text": "Que es la fuente de gracia, poder y verdad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "A Dios el padre Celestial",
+        "number": 7,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Bendito su nombre glorioso para siempre... Sal. 72:19",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "A Dios el Padre celestial,"
+                    },
+                    {
+                        "text": "Al Hijo nuestro Redentor,"
+                    },
+                    {
+                        "text": "Y al eternal Consolador,"
+                    },
+                    {
+                        "text": "Unidos todos alabad."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Cantad al trino y uno Dios,"
+                    },
+                    {
+                        "text": "Sus alabanzas entonad;"
+                    },
+                    {
+                        "text": "Su eterna gloria proclamad"
+                    },
+                    {
+                        "text": "Con gozo, gratitud y amor."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Para Alabanza de Su Gloria",
+        "number": 8,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo... Ef. 1:3, 13, 14",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Bendito sea el Dios y Padre de nuestro Señor Jesucristo,"
+                    },
+                    {
+                        "text": "que nos bendijo con toda bendición espiritual"
+                    },
+                    {
+                        "text": "en los lugares celestiales en Cristo."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "En él también vosotros, habiendo oído la palabra de verdad,"
+                    },
+                    {
+                        "text": "el evangelio de vuestra salvación, y habiendo creído en él,"
+                    },
+                    {
+                        "text": "fuisteis sellados con el Espíritu Santo de la promesa,"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Que es las arras de nuestra herencia hasta la redención de la"
+                    },
+                    {
+                        "text": "posesión adquirida,"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Para alabanza de su gloria."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "A Nuestro Padre Dios",
+        "number": 9,
+        "author": "",
+        "year": 1867,
+        "favorite": false,
+        "biblicalQuote": "Dad a Jehová la gloria debida a su nombre... Sal. 29:2",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "A nuestro Padre Dios alcemos nuestra voz, ¡Gloria a él!"
+                    },
+                    {
+                        "text": "Tal fue su amor que dio al Hijo que murió,"
+                    },
+                    {
+                        "text": "Y así nos redimió. ¡Gloria a él!"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "A nuestro Salvador demos con fe loor, ¡Gloria a él!"
+                    },
+                    {
+                        "text": "Su sangre derramó; con ella nos lavó,"
+                    },
+                    {
+                        "text": "Y el cielo nos abrió, ¡Gloria a él!"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Al fiel Consolador celebre nuestra voz, ¡Gloria a él!"
+                    },
+                    {
+                        "text": "Con celestial fulgor nos muestra el amor"
+                    },
+                    {
+                        "text": "De Cristo, el Señor; ¡Gloria a él!"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Con gozo y amor, cantemos con fervor al Trino Dios."
+                    },
+                    {
+                        "text": "En la eternidad mora la Trinidad;"
+                    },
+                    {
+                        "text": "¡Por siempre alabad, al Trino Dios!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "¡Por Siempre Alabad al Trino Dios!",
+        "number": 10,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "2 Co. 1:21, 22; 13:14",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Y el que nos confirma con vosotros en Cristo,"
+                    },
+                    {
+                        "text": "y el que nos ungió, es Dios, el cual también nos ha sellado,"
+                    },
+                    {
+                        "text": "y nos ha dado las arras del Espíritu en nuestros corazones."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "La gracia del Señor Jesucristo, el amor de Dios,"
+                    },
+                    {
+                        "text": "y la comunión del Espíritu Santo"
+                    },
+                    {
+                        "text": "sean con todos vosotros. Amén."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gloria al Padre",
+        "number": 11,
+        "author": "Ariany Riera",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "...al único y sabio Dios, nuestro Salvador, sea gloria y majestad... ahora y por todos los siglos. Amén. Jud. 25",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "//Gloria al Padre, gloria al Hijo, gloria al Espíritu Santo.//"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Al único Dios sea toda la gloria,"
+                    },
+                    {
+                        "text": "Honor y alabanzas por siempre."
+                    },
+                    {
+                        "text": "Por todos los siglos yo le alabaré."
+                    },
+                    {
+                        "text": "Al único Dios sea toda la gloria."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nuestras Manos levantemos",
+        "number": 12,
+        "author": "",
+        "year": 2004,
+        "favorite": false,
+        "biblicalQuote": "...levantando manos santas, sin ira ni contienda. I Ti. 2:8",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Nuestras manos levantemos en adoración."
+                    },
+                    {
+                        "text": "Nuestras voces hermanemos en una canción."
+                    },
+                    {
+                        "text": "Que nuestro amor se eleve a nuestro Padre,"
+                    },
+                    {
+                        "text": "Y el Espíritu de Dios nos llene hoy.//"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Gloria sea a aquel que nos ha creado."
+                    },
+                    {
+                        "text": "Gloria al que su sangre ha derramado."
+                    },
+                    {
+                        "text": "Y al Espíritu de verdad sea toda la autoridad."
+                    },
+                    {
+                        "text": "¡Gloria a la bendita Trinidad!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "¡Cuán Grande Es Tu Nombre!",
+        "number": 13,
+        "author": "",
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Sal. 8:1, 3, 4, 9",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Oh Jehová, Señor nuestro,"
+                    },
+                    {
+                        "text": "cuán glorioso es tu nombre en toda la tierra!"
+                    },
+                    {
+                        "text": "Has puesto tu gloria sobre los cielos;"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Cuando veo tus cielos, obra de tus dedos,"
+                    },
+                    {
+                        "text": "la luna y las estrellas que tú formaste,"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Digo: ¿Qué es el hombre,"
+                    },
+                    {
+                        "text": "para que tengas de él memoria,"
+                    },
+                    {
+                        "text": "y el hijo del hombre, para que lo visites?"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Oh Jehová, Señor nuestro,"
+                    },
+                    {
+                        "text": "cuán grande es tu nombre en toda la tierra!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "¡Cuán Grande Es Él!",
+        "number": 14,
+        "author": "Stuart K. Hine",
+        "year": 1948,
+        "favorite": false,
+        "biblicalQuote": "Grande es Jehova, y digno de ser en gran manera alabado... Sal. 48:1",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Señor, mi Dios, al contemplar los cielos,"
+                    },
+                    {
+                        "text": "El firmamento y las estrellas mil,"
+                    },
+                    {
+                        "text": "Al oír tu voz en los potentes truenos"
+                    },
+                    {
+                        "text": "Y ver brillar el sol en su cenit,"
+                    }
+                ]
+            },
+            {
+                "type": "chorus",
+                "lines": [
+                    {
+                        "text": "¡Mi corazón entona la canción,"
+                    },
+                    {
+                        "text": "¡Cuán grande es él! ¡Cuán grande es él!!"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Al recorrer los montes y los valles"
+                    },
+                    {
+                        "text": "Y ver las bellas flores al pasar,"
+                    },
+                    {
+                        "text": "Al escuchar el canto de las aves"
+                    },
+                    {
+                        "text": "Y el murmurar del claro manantial,"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Cuando recuerdo del amor divino"
+                    },
+                    {
+                        "text": "Que desde el cielo al Salvador envió,"
+                    },
+                    {
+                        "text": "Aquel Jesús que por salvarme vino"
+                    },
+                    {
+                        "text": "Y en una cruz sufrió por mí y murió."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Cuando el Señor me llame a su presencia,"
+                    },
+                    {
+                        "text": "Al dulce hogar, al cielo de esplendor,"
+                    },
+                    {
+                        "text": "Le adoraré cantando la grandeza"
+                    },
+                    {
+                        "text": "De su poder y su infinito amor."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "En Adoración",
+        "number": 15,
+        "author": "Mario Delgado",
+        "year": 2004,
+        "favorite": false,
+        "biblicalQuote": "Sal 95:6",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "En adoración venimos para estar en tu presencia, oh Dios."
+                    },
+                    {
+                        "text": "Y agradecer lo mucho que en tu gracia nos has dado."
+                    },
+                    {
+                        "text": "Nos liberaste y todo pecado fue derrotado en la cruz."
+                    },
+                    {
+                        "text": "Nuestras tinieblas tú transformaste, dándonos vida y luz."
+                    }
+                ]
+            },
+            {
+                "type": "chorus",
+                "lines": [
+                    {
+                        "text": "De rodillas, hoy tu pueblo gloria y honra da a tu nombre."
+                    },
+                    {
+                        "text": "Celebrando así tu majestad."
+                    },
+                    {
+                        "text": "Dios eterno, te exaltamos, tu grandeza declaramos."
+                    },
+                    {
+                        "text": "Con amor traemos a tu altar"
+                    },
+                    {
+                        "text": "Nuestro corazón, en adoración."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Desde el corazón un canto de alabanza te ofrecemos."
+                    },
+                    {
+                        "text": "En adoración un cuerpo y un espíritu seremos."
+                    },
+                    {
+                        "text": "Sólo tu gloria, Señor de los cielos, llene este santo lugar."
+                    },
+                    {
+                        "text": "Y en obediencia te proclamemos en cielo, tierra y mar."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Oh Amor de Dios",
+        "number": 16,
+        "author": "Frederick M. Lehman",
+        "year": 1917,
+        "favorite": false,
+        "biblicalQuote": "Con amor eterno te he amado.. Jer. 31:3",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Oh amor de Dios! Su inmensidad,"
+                    },
+                    {
+                        "text": "El hombre no podría contar,"
+                    },
+                    {
+                        "text": "Ni comprender la gran verdad"
+                    },
+                    {
+                        "text": "Que Dios al hombre pudo amar."
+                    },
+                    {
+                        "text": "Cuando el pecar entró al hogar de Adán y Eva en Edén,"
+                    },
+                    {
+                        "text": "Dios les sacó, más prometió un Salvador también."
+                    }
+                ]
+            },
+            {
+                "type": "chorus",
+                "lines": [
+                    {
+                        "text": "¡Oh amor de Dios!"
+                    },
+                    {
+                        "text": "Brotando está, inmensurable, eternal"
+                    },
+                    {
+                        "text": "Por las edades durará, inagotable raudal."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Si fuera tinta todo el mar, y todo el cielo un gran papel,"
+                    },
+                    {
+                        "text": "Y cada hombre un escritor, y cada hoja un pincel,"
+                    },
+                    {
+                        "text": "Nunca podrían describir el gran amor de Dios"
+                    },
+                    {
+                        "text": "Que al hombre pudo redimir de su pecado atroz."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Y cuando el tiempo pase ya en este reino mundanal,"
+                    },
+                    {
+                        "text": "Los reinos todos caerán con cada trama y plan carnal,"
+                    },
+                    {
+                        "text": "El gran amor del Redentor por siempre durará;"
+                    },
+                    {
+                        "text": "La gran canción de salvación su pueblo cantará."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "El Amor de Dios",
+        "number": 17,
+        "author": null,
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": "Ro 8:35-39, 1 Jn 3:1",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¿Quién nos separará del amor de Cristo?"
+                    },
+                    {
+                        "text": "¿Tribulación, o angustia, o persecución, o hambre,"
+                    },
+                    {
+                        "text": "o desnudez, o peligro, o espada?"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Como está escrito:"
+                    },
+                    {
+                        "text": "Por causa de ti somos muertos todo el tiempo;"
+                    },
+                    {
+                        "text": "somos contados como ovejas de matadero."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Antes, en todas estas cosas somos más que vencedores"
+                    },
+                    {
+                        "text": "por medio de aquel que nos amó."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Por lo cual estoy seguro de que ni la muerte, ni la vida,"
+                    },
+                    {
+                        "text": "ni ángeles, ni principados, ni potestades, ni lo presente,"
+                    },
+                    {
+                        "text": "ni lo por venir, ni lo alto, ni lo profundo,"
+                    },
+                    {
+                        "text": "ni ninguna otra cosa creada nos podrá separar"
+                    },
+                    {
+                        "text": "del amor de Dios, que es en Cristo Jesús Señor nuestro."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Mirad cuál amor nos ha dado el Padre,"
+                    },
+                    {
+                        "text": "para que seamos llamados hijos de Dios..."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Grande Es Jehova",
+        "number": 18,
+        "author": "Michael W. Smith y Devorah D. Smith",
+        "year": 1982,
+        "favorite": false,
+        "biblicalQuote": "Grande es Jehova, y digno de suprema alabanza... Sal 145:3",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Grande es Jehová y le damos loor"
+                    },
+                    {
+                        "text": "Por su grande poder y su amor."
+                    },
+                    {
+                        "text": "Grande es Jehová y su fidelidad,"
+                    },
+                    {
+                        "text": "Y su amor para siempre será."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Grande es él y digno de gloria!"
+                    },
+                    {
+                        "text": "¡Grande es y digno de adoración!"
+                    },
+                    {
+                        "text": "Grande es él. Alcemos la voz y así proclamar:"
+                    },
+                    {
+                        "text": "¡Grande es Jehová! ¡Grande es Jehová!"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¡Grande eres tú y digno de gloria!"
+                    },
+                    {
+                        "text": "¡Grande eres tú y digno de honor!"
+                    },
+                    {
+                        "text": "Grande es él. Levanto la voz y elevo mi voz:"
+                    },
+                    {
+                        "text": "¡Grande es Jehová! ¡Grande es Jehová!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Rey de Gloria",
+        "number": 19,
+        "author": null,
+        "year": null,
+        "favorite": false,
+        "biblicalQuote": null,
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Alzad, oh puertas, vuestras cabezas,"
+                    },
+                    {
+                        "text": "y alzaos vosotras, puertas eternas,"
+                    },
+                    {
+                        "text": "y entrará el Rey de gloria."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¿Quién es este Rey de gloria?"
+                    },
+                    {
+                        "text": "Jehová el fuerte y valiente,"
+                    },
+                    {
+                        "text": "Jehová el poderoso en batalla."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Alzad, oh puertas, vuestras cabezas,"
+                    },
+                    {
+                        "text": "y alzaos vosotras, puertas eternas,"
+                    },
+                    {
+                        "text": "y entrará el Rey de gloria."
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "¿Quién es este Rey de gloria?"
+                    },
+                    {
+                        "text": "Jehová de los ejércitos,"
+                    },
+                    {
+                        "text": "Él es el Rey de la gloria."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Grande Eres Tú",
+        "number": 20,
+        "author": "Esmirna Jane",
+        "year": 2004,
+        "favorite": false,
+        "biblicalQuote": "Oh Jehová, Señor nuestro, cuán grande es tu nombre en toda la tierra! Sal 8:9",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Grande eres tú, grande es tu amor."
+                    },
+                    {
+                        "text": "Digno de gloria y de alabanza eres tú, Señor."
+                    },
+                    {
+                        "text": "Tú eres el Dios de los cielos,"
+                    },
+                    {
+                        "text": "Por siempre y siempre tu centro será."
+                    },
+                    {
+                        "text": "No hay entre los dioses un Dios como tú, Jehová."
+                    },
+                    {
+                        "text": "Grande eres tú!, Grande eres tú!"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Adorad a Jehová",
+        "number": 21,
+        "author": "Julia M. Tabarez",
+        "year": 2004,
+        "favorite": false,
+        "biblicalQuote": "Adorad a Jehová en la hermosura de la santidad: temed delante de él, toda la tierra. Sal 96:9",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Adorad a Jehová en la hermosura de la santidad."
+                    },
+                    {
+                        "text": "Temed delante de él toda la tierra"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Tributad a Jehová, y dadle sólo a él gloria y poder."
+                    },
+                    {
+                        "text": "Sin temor proclamad que él reina y reinará"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "name": "Quiero alabarte",
+        "number": 22,
+        "author": "Sam O. Scott y Randy Thomas",
+        "year": 1980,
+        "favorite": false,
+        "biblicalQuote": "Alabad a Jehová, invocad su nombre... 1 Cr 16:8",
+        "verses": [
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Quiero alabarte más y más."
+                    },
+                    {
+                        "text": "Buscar tu voluntad, tu gracia conocer, quiero alabarte"
+                    }
+                ]
+            },
+            {
+                "type": "verse",
+                "lines": [
+                    {
+                        "text": "Quiero amarte"
+                    },
+                    {
+                        "text": "Más y aún más"
+                    },
+                    {
+                        "text": "Quiero alabarte"
+                    },
+                    {
+                        "text": "Quiero alabarte"
+                    },
+                    {
+                        "text": "Más y aún más"
+                    },
+                    {
+                        "text": "Buscar tu voluntad,"
+                    },
+                    {
+                        "text": "Tu gracia conocer,"
+                    },
+                    {
+                        "text": "Quiero alabarte"
+                    }
+                ]
+            }
+        ]
+    }
+]
